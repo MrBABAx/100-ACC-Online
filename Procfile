@@ -1,1 +1,1 @@
-
+worker: node hardi.js
